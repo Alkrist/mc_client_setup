@@ -1,6 +1,6 @@
 # Minecraft Client setup for Mac
 ### Общее описание
-Ссылка на архив, где содержатся все необходимые компоненты: [Ссылка на ресурсы](https://drive.google.com/file/d/11KbDRIqntwlfVCvssc30uGcYOG6RDi7J/view?usp=sharing) <br>
+Ссылка на архив, где содержатся все необходимые компоненты: [Ссылка на ресурсы](https://drive.google.com/file/d/1RUj59mcTRBWMP_u1zMnRLRO_XzHsaUrF/view?usp=sharing) <br>
 1) JRE 8 для Mac (выберете правильный установщик, *jre-8u391-macosx-aarch64.dmg* для Arm процессоров, в ином случае, используйте второй установщик).
 2) Resources - папка с модами и ресурсами, которые необходимо скопировать в папку майнкрафта.
 3) java_setup.sh - скрипт для конфигурации Java в вашей системе.
