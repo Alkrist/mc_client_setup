@@ -1,7 +1,7 @@
 # Minecraft Client setup
 ### Общее описание
 Здесь я опишу процесс установки отдельно для Mac и Windows. На Windows проще.
-Ссылка на архив, где содержатся все необходимые компоненты: [Ссылка на ресурсы](https://drive.google.com/file/d/11KbDRIqntwlfVCvssc30uGcYOG6RDi7J/view?usp=sharing) <br>
+Ссылка на архив, где содержатся все необходимые компоненты: [Ссылка на ресурсы](https://drive.google.com/file/d/1RUj59mcTRBWMP_u1zMnRLRO_XzHsaUrF/view?usp=sharing) <br>
 В архиве лежат следующие папки:
 1) Resources - папка с модами и ресурсами, которые необходимо скопировать в папку майнкрафта.
 2) Mac - папка с установщиком джавы для мака
