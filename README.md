@@ -11,7 +11,7 @@
 ## Способ Второй - TLauncher
 Данный Способ работает для официальных и пиратских аккаунтов.<br>
 1. Скачать и установить [TLauncher](https://tlauncher.org/)
-2. Скачать модпак: [Минимальный](https://drive.google.com/file/d/1zP_YgflgBaU2cX7ksAunJoyWJMPdRcqQ/view?usp=sharing) или [Расширенный](https://drive.google.com/file/d/1KRZfN_O-fbKp51cY46K-yw8XePfbzX7L/view?usp=sharing)
+2. Скачать модпак: [Минимальный](https://drive.google.com/file/d/1zP_YgflgBaU2cX7ksAunJoyWJMPdRcqQ/view?usp=sharing) или [Расширенный](https://drive.google.com/file/d/1KRZfN_O-fbKp51cY46K-yw8XePfbzX7L/view?usp=sharing) (советую ставить расширенный, там есть моды, которые сильно облегчают выживание, такие, как карта и рецепты)
 3. Выбрать версию Forge 1.20.1 или ForgeOptifine 1.20.1 (рекомендуется с Optifine), установить.
 4. Если Вы выбрали Минимальный модпак, зайти в настройки выделить *минимум 3072Мб памяти*, Расширенный - *минимум 5120Мб*
 5. Зайти в свой аккаунт<br>
